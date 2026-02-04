@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904449961609",
+    "project_id": "komikjp",
+    "storage_bucket": "komikjp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904449961609:android:aeae461b941892db88a058",
+        "android_client_info": {
+          "package_name": "com.example.komikjp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF3pVfHDhraoXQpAfT1waysS41DAh4m78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
